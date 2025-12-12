@@ -1,4 +1,5 @@
 📌 Grocery Store Management System – SQL Data Analysis Project
+
 📖 Project Overview
 
 This project focuses on building and analyzing a complete Grocery Store Management System using SQL.
